@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+# Model & data artifacts
+backend/storage/
+backend/storage/models/
+backend/storage/datasets/
+*.pkl

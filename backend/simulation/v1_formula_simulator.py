@@ -1,5 +1,5 @@
 """
-PMI V1 – Client-Grade Retail Promotion Simulator
+PMI V1 || Client-Grade Retail Promotion Simulator
 Economically realistic synthetic dataset generator.
 No fragile covariance math. No deterministic tricks.
 """
