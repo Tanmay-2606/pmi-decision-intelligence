@@ -1,7 +1,4 @@
 # PMI - Predictive Margin Intelligence
-## Hackathon Submission
-
-This repository is submitted for the [AI for Retail, Commerce & Market Intelligence] Professional Track.
 
 Key Documentation:
 - DESIGN.md
